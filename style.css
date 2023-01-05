@@ -137,3 +137,21 @@ margin-top: 130px;
 font-weight: 700;
 font-size: 35px;
 }
+
+.resume-content{
+  display: flex;
+}
+
+.rusume, title{
+color: #474747;
+font-weight: 700;
+font-size: 25px;
+}
+.rusume, sub-title{
+color: #757575;
+font-weight: 700;
+font-size: 25px;
+}
+.rusume, description{
+color: #757575;
+}
